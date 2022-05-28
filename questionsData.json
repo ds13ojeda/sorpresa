@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "question" : "¿En qué año se formó la banda?",
+        "correct": "1996",
+        "incorrect1": "1997",
+        "incorrect2": "1999",
+        "incorrect3": "2000"
+    },
+    {
+        "id": "2",
+        "question" : "¿Cómo se llama el baterista?",
+        "correct": "Will Champion",
+        "incorrect1": "Chris Martin",
+        "incorrect2": "Jon Buckland",
+        "incorrect3": "Guy Berryman"
+    },
+    {
+        "id": "3",
+        "question" : "¿En qué disco se encuentra la canción 'The Scientist'?",
+        "correct": "A Rush of Blood to the Head",
+        "incorrect1": "Viva la vida",
+        "incorrect2": "X&Y",
+        "incorrect3": "A head full of dreams"
+    },
+    {
+        "id": "4",
+        "question" : "La canción con la colaboración de BTS se llama...",
+        "correct": "My universe",
+        "incorrect1": "Yellow",
+        "incorrect2": "Fix you",
+        "incorrect3": "Adventure of a lifetime"
+    },
+    {
+        "id": "5",
+        "question" : "¿Cuál es el único álbum que ganó el grammy a 'Mejor álbum de rock'?",
+        "correct": "Viva la vida",
+        "incorrect1": "Parachutes",
+        "incorrect2": "Mylo Xyloto",
+        "incorrect3": "Everyday life"
+    },
+    {
+        "id": "6",
+        "question" : "¿En qué ciudad surgió la banda?",
+        "correct": "Londres",
+        "incorrect1": "Nueva York",
+        "incorrect2": "Chicago",
+        "incorrect3": "Edimburgo"
+    },
+    {
+        "id": "7",
+        "question" : "¿En qué país cerraron su gira 'A Head Full of Dreams Tour' (2017)?",
+        "correct": "Argentina",
+        "incorrect1": "Brasil",
+        "incorrect2": "Inglaterra",
+        "incorrect3": "Estados Unidos"
+    },
+    {
+        "id": "8",
+        "question" : "¿Cómo se llama el último disco que grabaron?",
+        "correct": "Music of the Spheres",
+        "incorrect1": "Mylo Xyloto",
+        "incorrect2": "X&Y",
+        "incorrect3": "Parachutes"
+    },
+    {
+        "id": "9",
+        "question" : "¿Irías a verlos en vivo?",
+        "correct": "Obvio",
+        "incorrect1": "Mmmm no sé",
+        "incorrect2": "No, no me gustan",
+        "incorrect3": "Me gustan pero no para tanto"
+    },
+    {
+        "id": "10",
+        "question" : "¿Me acompañas a verlos el 4 de Noviembre?",
+        "correct": "Siiii",
+        "incorrect1": "No, soy re aburrida",
+        "incorrect2": "Malisimo Coldplay",
+        "incorrect3": "Nunca iría con vos"
+    }
+]

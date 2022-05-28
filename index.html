@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escuesta</title>
+    <link rel="stylesheet" href="/public/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1 class="encuesta-title">Encuesta</h1>
+        <h1 class="coldplay-title">Coldplay</h1>
+        <p>(No vale googlear)</p>
+    </header>
+    <main>
+        <div class="form-container">
+            <h3 class="question" id="question">¿En qué año se fundó la banda?</h3>
+                <div class="answer-container">
+                    <div class="answer" id="answer1" onclick="clickOnAnswer(0)">1997</div>
+                    <div class="answer" id="answer2" onclick="clickOnAnswer(1)">1996</div>
+                    <div class="answer" id="answer3" onclick="clickOnAnswer(2)">2000</div>
+                    <div class="answer" id="answer4" onclick="clickOnAnswer(3)">1998</div>
+                </div>
+        </div>
+    </main>
+</body>
+<script src="/script.js"></script>
+</html>
